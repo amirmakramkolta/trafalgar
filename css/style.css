@@ -152,6 +152,7 @@ nav ul li:first-of-type {
 
 .items div img {
   margin-bottom: 20px;
+  height: 72px;
 }
 
 .items div h2 {
